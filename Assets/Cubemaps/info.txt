@@ -1,0 +1,3 @@
+cubemaps for unity3d
+
+http://unity3d.bplaced.net

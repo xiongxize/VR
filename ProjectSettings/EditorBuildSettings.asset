@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Log.unity
+    guid: 70bca626657b7664a9e2661b257468e6
+  - enabled: 0
+    path: Assets/Scenes/Main.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/111.unity
+    guid: 9d50524d6ef1a3e4787e673040bfcfef
+  - enabled: 0
+    path: Assets/JP_School classroom_V2/Scenes/School_Classroom.unity
+    guid: b64e7bfed3af07540960a741f9195d89
+  - enabled: 1
+    path: Assets/Art/Art/Scenes/Demo.unity
+    guid: c9087a8651045e345a4574c4312de205
+  m_configObjects:
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: 5814d7e09c2c9f64398966eb8c62a14d, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7afc489aa5d77924d91f88db768b5b62, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 30e22f3ecaae4b24280e164732f5894f, type: 2}
