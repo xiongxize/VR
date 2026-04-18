@@ -15,10 +15,10 @@ EditorBuildSettings:
     path: Assets/Scenes/111.unity
     guid: 9d50524d6ef1a3e4787e673040bfcfef
   - enabled: 0
-    path: Assets/JP_School classroom_V2/Scenes/School_Classroom.unity
+    path: Assets/Art/JP_School classroom_V2/Scenes/School_Classroom.unity
     guid: b64e7bfed3af07540960a741f9195d89
   - enabled: 1
-    path: Assets/Art/Art/Scenes/Demo.unity
+    path: Assets/Art/Scenes/Demo.unity
     guid: c9087a8651045e345a4574c4312de205
   m_configObjects:
     Unity.XR.PXR.Settings: {fileID: 11400000, guid: 5814d7e09c2c9f64398966eb8c62a14d, type: 2}
