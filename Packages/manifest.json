@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.ahd2.tod-system": "https://github.com/ahd2/AHD2-TODSystem.git",
     "com.unity.collab-proxy": "2.11.4",
     "com.unity.feature.development": "1.0.1",
     "com.unity.shadergraph": "14.0.11",
